@@ -34,7 +34,7 @@ Syncher is a health & lifestyle tracking app that helps users monitor their horm
 
 [Watch Demo Video](assets/demo/demo.mp4)
 
-> Note: Video will open in your browser.  
+> Note: Video will open in your browser.
 
 ---
 
