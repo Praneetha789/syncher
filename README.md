@@ -1,55 +1,55 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+# Syncher App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Syncher is a health & lifestyle tracking app that helps users monitor their hormone balance, track periods, manage symptoms, and follow lifestyle recommendations.
 
-## Get started
+---
 
-1. Install dependencies
+## Features
 
-   ```bash
-   npm install
-   ```
+- Track daily health & lifestyle habits
+- Period tracking & reminders
+- Symptom and hormone score tracking
+- Dashboard for quick insights
+- Personalized recommendations
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## Screenshots
 
-In the output, you'll find options to open the app in a
+### Home
+![Home Screen](assets/demo/home.png)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Dashboard
+![Dashboard](assets/demo/dashboard.png)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Lifestyle
+![Lifestyle Screen](assets/demo/lifestyle.png)
 
-## Get a fresh project
+### Period Tracker
+![Period Tracker](assets/demo/period.png)
 
-When you're ready, run:
+---
 
+## Demo Video
+
+[Watch Demo Video](assets/demo/demo.mp4)
+
+> Note: Video will open in your browser.  
+
+---
+
+## Tech Stack
+
+- React Native / Expo
+- TypeScript
+- Firebase
+- Node.js
+- Git & GitHub
+
+---
+
+## Setup (Local Development)
+
+1. Clone the repo:  
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# syncher
-Women's wellness app for cycle tracking and harmone insights
->>>>>>> 438a796f0d8a5ffe2b2faee966240ec78e33dfbc
+git clone https://github.com/Praneetha789/syncher.git
